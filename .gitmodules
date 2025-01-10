@@ -1,0 +1,3 @@
+[submodule "learn-terraform-provider-versioning"]
+	path = learn-terraform-provider-versioning
+	url = https://github.com/hashicorp-education/learn-terraform-provider-versioning
