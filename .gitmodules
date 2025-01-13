@@ -4,3 +4,9 @@
 [submodule "learn-terraform-init"]
 	path = learn-terraform-init
 	url = https://github.com/hashicorp-education/learn-terraform-init
+[submodule "learn-terraform-plan"]
+	path = learn-terraform-plan
+	url = https://github.com/hashicorp-education/learn-terraform-plan
+[submodule "learn-terraform-apply"]
+	path = learn-terraform-apply
+	url = https://github.com/hashicorp-education/learn-terraform-apply
