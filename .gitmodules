@@ -10,3 +10,6 @@
 [submodule "learn-terraform-apply"]
 	path = learn-terraform-apply
 	url = https://github.com/hashicorp-education/learn-terraform-apply
+[submodule "learn-terraform-versions"]
+	path = learn-terraform-versions
+	url = https://github.com/hashicorp-education/learn-terraform-versions
