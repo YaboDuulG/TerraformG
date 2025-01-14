@@ -22,3 +22,12 @@
 [submodule "learn-terraform-outputs"]
 	path = learn-terraform-outputs
 	url = https://github.com/hashicorp-education/learn-terraform-outputs
+[submodule "learn-terraform-data-sources-vpc"]
+	path = learn-terraform-data-sources-vpc
+	url = https://github.com/hashicorp-education/learn-terraform-data-sources-vpc
+[submodule "learn-terraform-data-sources-app"]
+	path = learn-terraform-data-sources-app
+	url = https://github.com/hashicorp-education/learn-terraform-data-sources-app
+[submodule "learn-terraform-dependencies"]
+	path = learn-terraform-dependencies
+	url = https://github.com/hashicorp-education/learn-terraform-dependencies
