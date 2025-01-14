@@ -13,3 +13,6 @@
 [submodule "learn-terraform-versions"]
 	path = learn-terraform-versions
 	url = https://github.com/hashicorp-education/learn-terraform-versions
+[submodule "learn-terraform-variables"]
+	path = learn-terraform-variables
+	url = https://github.com/hashicorp-education/learn-terraform-variables
