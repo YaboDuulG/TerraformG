@@ -19,3 +19,6 @@
 [submodule "learn-terraform-sensitive-variables"]
 	path = learn-terraform-sensitive-variables
 	url = https://github.com/hashicorp-education/learn-terraform-sensitive-variables
+[submodule "learn-terraform-outputs"]
+	path = learn-terraform-outputs
+	url = https://github.com/hashicorp-education/learn-terraform-outputs
