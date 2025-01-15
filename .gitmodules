@@ -31,3 +31,6 @@
 [submodule "learn-terraform-dependencies"]
 	path = learn-terraform-dependencies
 	url = https://github.com/hashicorp-education/learn-terraform-dependencies
+[submodule "learn-terraform-functions"]
+	path = learn-terraform-functions
+	url = https://github.com/hashicorp-education/learn-terraform-functions
