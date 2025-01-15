@@ -34,3 +34,6 @@
 [submodule "learn-terraform-functions"]
 	path = learn-terraform-functions
 	url = https://github.com/hashicorp-education/learn-terraform-functions
+[submodule "learn-terraform-expressions"]
+	path = learn-terraform-expressions
+	url = https://github.com/hashicorp-education/learn-terraform-expressions
